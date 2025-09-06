@@ -1,0 +1,2 @@
+/* Placeholder for valley.jpeg background image */
+/* Original file not found, using CSS gradient as fallback */
